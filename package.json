@@ -1,5 +1,5 @@
 {
-  "name": "thinky",
+  "name": "@scp/thinky",
   "version": "2.3.2",
   "description": "RethinkDB ORM for Node.js",
   "main": "lib/thinky.js",
